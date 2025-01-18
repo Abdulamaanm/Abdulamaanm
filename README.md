@@ -1,5 +1,5 @@
 
-Here’s how your README could look, using a similar structure to the one you shared but incorporating your own skills and experience:
+
 
 Abdul Amaan - Data Analyst Portfolio
 Hello, I'm Abdul Amaan!
